@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="book-database" />
+        <module name="JavaSredniozaawansowana" />
+        <module name="MetodyKlasyString" />
+        <module name="MojeGry" />
+        <module name="Programowanie1.2" />
+        <module name="ProgramowanieFunkcyjne" />
+        <module name="ProjektowanieII" />
+        <module name="SOLID_dobrePraktyki" />
+        <module name="StringKonwertowanie" />
+        <module name="Swing-Okienka-MojeCwiczenia" />
+        <module name="Testowanie" />
+        <module name="THREAD" />
+        <module name="wywolywanieKonstruktorowItp" />
+        <module name="Wzorce_Projektowe" />
+        <module name="Wzorce_Projektowe (1)" />
+        <module name="WzorceProjektoweMojeCwiczenia" />
+        <module name="ZadaniaNaRozmoweKw" />
+        <module name="ZbiorZadanRychlicki" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="book-database" target="1.8" />
+      <module name="JavaSredniozaawansowana" target="1.8" />
+      <module name="MetodyKlasyString" target="1.5" />
+      <module name="MojeGry" target="1.5" />
+      <module name="Programowanie1.2" target="1.5" />
+      <module name="ProgramowanieFunkcyjne" target="1.8" />
+      <module name="ProjektowanieII" target="1.8" />
+      <module name="SOLID_dobrePraktyki" target="1.8" />
+      <module name="StringKonwertowanie" target="1.8" />
+      <module name="Swing-Okienka-MojeCwiczenia" target="1.8" />
+      <module name="Testowanie" target="1.5" />
+      <module name="THREAD" target="1.6" />
+      <module name="wywolywanieKonstruktorowItp" target="1.5" />
+      <module name="Wzorce_Projektowe" target="1.8" />
+      <module name="Wzorce_Projektowe (1)" target="1.8" />
+      <module name="WzorceProjektoweMojeCwiczenia" target="1.8" />
+      <module name="ZadaniaNaRozmoweKw" target="1.5" />
+      <module name="ZbiorZadanRychlicki" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../wzorceOdJarka/pom.xml" />
+        <option value="$PROJECT_DIR$/../Wzorce_Projektowe/pom.xml" />
+        <option value="$PROJECT_DIR$/../wywolywanieKonstruktorowItp/pom.xml" />
+        <option value="$PROJECT_DIR$/../StringKonwertowanie/pom.xml" />
+        <option value="$PROJECT_DIR$/../ProjektowanieII/pom.xml" />
+        <option value="$PROJECT_DIR$/../Swing_Okienka_MojeCwiczenia/pom.xml" />
+        <option value="$PROJECT_DIR$/../MetodyKlasyString/pom.xml" />
+        <option value="$PROJECT_DIR$/../Testowanie/pom.xml" />
+        <option value="$PROJECT_DIR$/../ZbiorZadanRychlicki/pom.xml" />
+        <option value="$PROJECT_DIR$/../Programowanie1.2/pom.xml" />
+        <option value="$PROJECT_DIR$/../Zadanie_Jarek_BookWindow/pom.xml" />
+        <option value="$PROJECT_DIR$/../ProgramowanieFunkcyjne/pom.xml" />
+        <option value="$PROJECT_DIR$/../book-database-Mateusz_Przybylski/pom.xml" />
+        <option value="$PROJECT_DIR$/../SOLID_dobrePraktyki/pom.xml" />
+        <option value="$PROJECT_DIR$/../ZadaniaNaRozmoweKw/pom.xml" />
+        <option value="$PROJECT_DIR$/../THREADS/pom.xml" />
+        <option value="$PROJECT_DIR$/../MojeGry/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

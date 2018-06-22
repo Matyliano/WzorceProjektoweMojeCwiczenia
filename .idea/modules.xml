@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Zadanie_Jarek_BookWindow/JavaSredniozaawansowana.iml" filepath="$PROJECT_DIR$/../Zadanie_Jarek_BookWindow/JavaSredniozaawansowana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MetodyKlasyString/MetodyKlasyString.iml" filepath="$PROJECT_DIR$/../MetodyKlasyString/MetodyKlasyString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MojeGry/MojeGry.iml" filepath="$PROJECT_DIR$/../MojeGry/MojeGry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Programowanie1.2/Programowanie1.2.iml" filepath="$PROJECT_DIR$/../Programowanie1.2/Programowanie1.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ProgramowanieFunkcyjne/ProgramowanieFunkcyjne.iml" filepath="$PROJECT_DIR$/../ProgramowanieFunkcyjne/ProgramowanieFunkcyjne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ProjektowanieII/ProjektowanieII.iml" filepath="$PROJECT_DIR$/../ProjektowanieII/ProjektowanieII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SOLID_dobrePraktyki/SOLID_dobrePraktyki.iml" filepath="$PROJECT_DIR$/../SOLID_dobrePraktyki/SOLID_dobrePraktyki.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../StringKonwertowanie/StringKonwertowanie.iml" filepath="$PROJECT_DIR$/../StringKonwertowanie/StringKonwertowanie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Swing_Okienka_MojeCwiczenia/Swing-Okienka-MojeCwiczenia.iml" filepath="$PROJECT_DIR$/../Swing_Okienka_MojeCwiczenia/Swing-Okienka-MojeCwiczenia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../THREADS/THREAD.iml" filepath="$PROJECT_DIR$/../THREADS/THREAD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Testowanie/Testowanie.iml" filepath="$PROJECT_DIR$/../Testowanie/Testowanie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WzorceProjektoweMojeCwiczenia.iml" filepath="$PROJECT_DIR$/WzorceProjektoweMojeCwiczenia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wzorceOdJarka/Wzorce_Projektowe.iml" filepath="$PROJECT_DIR$/../wzorceOdJarka/Wzorce_Projektowe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Wzorce_Projektowe/Wzorce_Projektowe (1).iml" filepath="$PROJECT_DIR$/../Wzorce_Projektowe/Wzorce_Projektowe (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ZadaniaNaRozmoweKw/ZadaniaNaRozmoweKw.iml" filepath="$PROJECT_DIR$/../ZadaniaNaRozmoweKw/ZadaniaNaRozmoweKw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ZbiorZadanRychlicki/ZbiorZadanRychlicki.iml" filepath="$PROJECT_DIR$/../ZbiorZadanRychlicki/ZbiorZadanRychlicki.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../book-database-Mateusz_Przybylski/book-database.iml" filepath="$PROJECT_DIR$/../book-database-Mateusz_Przybylski/book-database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wywolywanieKonstruktorowItp/wywolywanieKonstruktorowItp.iml" filepath="$PROJECT_DIR$/../wywolywanieKonstruktorowItp/wywolywanieKonstruktorowItp.iml" />
+    </modules>
+  </component>
+</project>
